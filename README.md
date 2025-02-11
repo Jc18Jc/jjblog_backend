@@ -1,6 +1,7 @@
 ### 페이지
 
 [JJBlog](https://jjlog.vercel.app/)
+현재는 서버를 꺼뒀습니다.
 
 ---
 
